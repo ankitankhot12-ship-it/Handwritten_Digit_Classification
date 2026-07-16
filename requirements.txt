@@ -1,5 +1,5 @@
 streamlit
 numpy
-opencv-python-headless==4.11.0.86
-tensorflow
-streamlit-drawable-canvas==0.9.3
+opencv-python-headless
+tensorflow-cpu
+streamlit-drawable-canvas
